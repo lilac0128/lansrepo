@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a makdownfile in this repository.
+Its a makdown file in this repository.
